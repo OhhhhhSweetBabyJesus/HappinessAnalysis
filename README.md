@@ -1,7 +1,7 @@
 # HappinessAnalysis
 Grundlagen sozialer Netze Datenanalyse Projekt
 
-kurze beschreibung der vorhandenen Daten
+kurze beschreibung der vorhandenen Daten von Bruno:
 
 scra.py : erstellt aus mit den datenn aus dem ressources Ornder die noetigen Dataframes von den OECD CSV Datein
 
