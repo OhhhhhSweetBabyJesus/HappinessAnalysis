@@ -1,0 +1,160 @@
+#Kommentare ignorieren beim Einlesen : read_csv(comments="#")
+country,code
+Denmark,DNK
+Switzerland,CHE
+Iceland,ISL
+Norway,NOR
+Finland,FIN
+Canada,CAN
+Netherlands,NLD
+New Zealand,NZL
+Australia,AUS
+Sweden,SWE
+Israel,ISR
+Austria,AUT
+United States,USA
+Costa Rica,CRI
+Puerto Rico,PRI
+Germany,DEU
+Brazil,BRA
+Belgium,BEL
+Ireland,IRL
+Luxembourg,LUX
+Mexico,MEX
+Singapore,SGP
+United Kingdom,GBR
+Chile,CHL
+Panama,PAN
+Argentina,ARG
+Czech Republic,CZE
+United Arab Emirates,ARE
+Uruguay,URY
+Malta,MLT
+Colombia,COL
+France,FRA
+Thailand,THA
+Saudi Arabia,SAU
+Taiwan,TWN
+Qatar,QAT
+Spain,ESP
+Algeria,DZA
+Guatemala,GTM
+Suriname,SUR
+Kuwait,KWT
+Bahrain,BHR
+Trinidad and Tobago,TTO
+Venezuela,VEN
+Slovakia,SVK
+El Salvador,SLV
+Malaysia,MYS
+Nicaragua,NIC
+Uzbekistan,UZB
+Italy,ITA
+Ecuador,ECU
+Belize,BLZ
+Japan,JPN
+Kazakhstan,KAZ
+Moldova,MDA
+Russia,RUS
+Poland,POL
+South Korea,KOR
+Bolivia,BOL
+Lithuania,LTU
+Belarus,BLR
+North Cyprus,CYP
+Slovenia,SVN
+Peru,PER
+Turkmenistan,TKM
+Mauritius,MUS
+Libya,LBY
+Latvia,LVA
+Cyprus,CYP
+Paraguay,PRY
+Romania,ROU
+Estonia,EST
+Jamaica,JAM
+Croatia,HRV
+Hong Kong,HKG
+Somalia,SOM
+#             nicht auffindbar
+Kosovo,NONE
+Turkey,TUR
+Indonesia,IDN
+Jordan,JOR
+Azerbaijan,AZE
+Philippines,PHL
+China,CHN
+Bhutan,BTN
+Kyrgyzstan,KGZ
+Serbia,SRB
+Bosnia and Herzegovina,BIH
+Montenegro,MNE
+Dominican Republic,DOM
+Morocco,MAR
+Hungary,HUN
+Pakistan,PAK
+Lebanon,LBN
+Portugal,PRT
+Macedonia,MKD
+Vietnam,VNM
+Somaliland Region,SOM
+Tunisia,TUN
+Greece,GRC
+Tajikistan,TJK
+Mongolia,MNG
+Laos,LAO
+Nigeria,NGA
+Honduras,HND
+Iran,IRN
+Zambia,ZMB
+Nepal,NPL
+Palestinian Territories,PSE
+Albania,ALB
+Bangladesh,BGD
+Sierra Leone,SLE
+Iraq,IRQ
+Namibia,NAM
+Cameroon,CMR
+Ethiopia,ETH
+South Africa,ZAF
+Sri Lanka,LKA
+India,IND
+Myanmar,MMR
+Egypt,EGY
+Armenia,ARM
+Kenya,KEN
+Ukraine,UKR
+Ghana,GHA
+Congo (Kinshasa),COD
+Georgia,GEO
+Congo (Brazzaville),COG
+Senegal,SEN
+Bulgaria,BGR
+Mauritania,MRT
+Zimbabwe,ZWE
+Malawi,MWI
+Sudan,SDN
+Gabon,GAB
+Mali,MLI
+Haiti,HTI
+Botswana,BWA
+Comoros,COM
+Ivory Coast,CIV
+Cambodia,KHM
+Angola,AGO
+Niger,NER
+South Sudan,SSD
+Chad,TCD
+Burkina Faso,BFA
+Uganda,UGA
+Yemen,YEM
+Madagascar,MDG
+Tanzania,TZA
+Liberia,LBR
+Guinea,GIN
+Rwanda,RWA
+Benin,BEN
+Afghanistan,AFG
+Togo,TGO
+Syria,SYR
+Burundi,BDI
